@@ -1,3 +1,4 @@
+google.com, pub-7786725540496063, DIRECT, f08c47fec0942fa0
 outbrain.com, 0023749a2264ea0429a71b54ac9ca0de9a, reseller
 outbrain.com, 00ab8f68679cc060c8bbc1035e70030614, reseller
 video.unrulymedia.com, 2464975885, reseller
