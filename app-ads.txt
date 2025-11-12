@@ -1,4 +1,6 @@
 google.com, pub-7786725540496063, DIRECT, f08c47fec0942fa0
+pangle.io, 5028291, DIRECT
+unity.com, 1385606, DIRECT, 96cabb5fbdde37a7
 app-stock.com, 384491, RESELLER
 smartadserver.com, 4190, RESELLER, 060d053dcf45cbf3
 outbrain.com, 0023749a2264ea0429a71b54ac9ca0de9a, reseller
@@ -207,7 +209,6 @@ lacunads.com, lcb555b3bc8667a09a, reseller
 prado.co, 14260, reseller
 themediagrid.com, FALINO, direct, 35d5010d7789b49d
 themediagrid.com, A6CWLO, reseller, 35d5010d7789b49d
-unity.com, 1385606, DIRECT, 96cabb5fbdde37a7
 vidazoo.com, 66e04f5e4d7fd89d878d29d2, reseller, b6ada874b4d7d0b2
 visoon.de, 64393, reseller
 eliteappgrade.com, 494223, reseller
