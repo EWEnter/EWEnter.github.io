@@ -1,8 +1,7 @@
 OwnerDomain=ewenter.github.io
 google.com, pub-7786725540496063, DIRECT, f08c47fec0942fa0
-pangle.io, 5028291, DIRECT
 unity.com, 1385606, DIRECT, 96cabb5fbdde37a7
-facebook.com, 247129797146639, DIRECT, c3e20eee3f780d68
+vungle.com,692d6976b8a9d13828d7ba33,DIRECT,c107d686becd2d77
 ironsrc.com, 375041, DIRECT
 app-stock.com, 384491, RESELLER
 smartadserver.com, 4190, RESELLER, 060d053dcf45cbf3
@@ -323,7 +322,6 @@ video.unrulymedia.com, 389957698, RESELLER
 pubnative.net, 1007485, RESELLER, d641df8625486a7b
 thebrave.io, 9840732, RESELLER, c25b2154543746ac
 betweendigital.com, 45827, RESELLER
-vungle.com,692d6976b8a9d13828d7ba33,DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
 Contextweb.com,562852,RESELLER,89ff185a4c4e857c
 Media.net,8CU12AQ1Y,RESELLER
