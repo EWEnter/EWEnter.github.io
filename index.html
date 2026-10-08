@@ -2,7 +2,7 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8" />
-  <title>EWENTER Mobile Games STUDIO</title>
+  <title>놀게임즈(Noll games) | 모바일 게임 개발</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <style>
@@ -273,6 +273,24 @@
       object-fit: cover;
     }
 
+    .company-info {
+      max-width: 1080px;
+      margin: 0 auto;
+      padding: 24px 18px 36px;
+      border-top: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .company-info strong {
+      color: var(--text);
+    }
+
+    .company-info address {
+      margin-top: 8px;
+      font-style: normal;
+    }
+
     @media (max-width: 768px) {
       .games-layout {
         grid-template-columns: 1fr;
@@ -295,7 +313,7 @@
     <nav class="nav">
       <div class="logo">
         <div class="logo-pill"></div>
-        EWENTER Mobile Games
+        놀게임즈(Noll games)
       </div>
       <div class="nav-links">
         <a href="#about">회사소개</a>
@@ -321,7 +339,7 @@
           </h1>
 
           <p class="section-desc">
-            EWENTER Mobile Games는 모바일 게임에 특화된 개발업체 입니다.
+            놀게임즈(Noll games)는 모바일 게임에 특화된 개발업체입니다.
           </p>
         </div>
 
@@ -449,7 +467,8 @@
 
           <input type="file" id="imageInput" accept="image/*" />
           <div class="filename" id="filename">현재 이미지: images/스플레쉬이미지.jpg</div>
-        </div>-->
+-->
+        </div>
 
       </div>
     </section>
@@ -489,13 +508,18 @@
 
   </main>
 
+  <footer class="company-info">
+    <strong>놀게임즈(Noll games)</strong>
+    <address>사업장 주소: 경기도 의정부시 동일로 119, 2층 204호 (장암동)</address>
+  </footer>
+
   <script>
     // 이미지 업로드 미리보기 기능
     const imageInput = document.getElementById("imageInput");
     const previewImage = document.getElementById("previewImage");
     const filenameEl = document.getElementById("filename");
 
-    imageInput.addEventListener("change", (e) => {
+    imageInput?.addEventListener("change", (e) => {
       const file = e.target.files[0];
       if (!file) return;
 
